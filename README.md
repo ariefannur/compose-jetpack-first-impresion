@@ -9,7 +9,7 @@ Here is sample layout to understanding jetpack compose.
 3. sample event handler 
 4. sample grid layout
 
-Sample Generate Grid Layout
+#### Sample Generate Grid Layout
 ```kotlin
  @Composable
     fun generateMenuGrid(listGrid: List<List<Menu>>){
